@@ -1,1 +1,1 @@
-# BOGDAN
+echo salam aleykum
